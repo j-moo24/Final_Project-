@@ -1,11 +1,11 @@
  # Data_Projects_TripleTen 
 Zomato project Dasboard
-[
-](https://public.tableau.com/app/profile/josh.moore8457/viz/Zomatofinalproject/Dashboard1)
+
+(https://public.tableau.com/app/profile/josh.moore8457/viz/Zomatofinalproject/Dashboard1)
 
 Zomato project report 
-[
-](https://onedrive.live.com/personal/d420e97ea9220eee/_layouts/15/doc.aspx?resid=aa251b88-953e-4bae-8898-4e6cf729b3cd&cid=d420e97ea9220eee&ct=1727049248753&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=a8ffeb82-398c-4338-80ab-f29df67fcb88)
+
+(https://onedrive.live.com/personal/d420e97ea9220eee/_layouts/15/doc.aspx?resid=aa251b88-953e-4bae-8898-4e6cf729b3cd&cid=d420e97ea9220eee&ct=1727049248753&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=a8ffeb82-398c-4338-80ab-f29df67fcb88)
 
 
 1. Project Overview 
